@@ -9,7 +9,7 @@ This page will describe all the steps that went into building this website for s
 
 A lot of this was achieved by following a Jekyll tutorial series produced by Mike Dane (formerly Giraffe Academy) on Youtube: [Jekyll - Static Site Generator - Tutorial](https://youtu.be/T1itpPvFWHI).
 
-To update gh repository (and subsequently the website itself):
+To update gh repository (and subsequently the website itself) navigate to directory housing all documents pertaining to website (created with Jekyll build command) in terminal and, after making any edit, type:
 {% highlight bash %}
 % git add .
 % git commit -m "message goes here"
