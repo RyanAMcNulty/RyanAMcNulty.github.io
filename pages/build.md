@@ -1,8 +1,10 @@
 ---
 layout: page
-title: How to build a website with Jekyll & Github Pages
+title: Build
 permalink: /how-to-build-a-website/jekyll/
 ---
+
+#How to build a website with Github Pages, Jekyll, & custom domain
 
 This page will describe all the steps that went into building this website for self reference as well as guidance for others.
 
@@ -12,3 +14,5 @@ To update gh repository (and subsequently the website itself):
 % git commit -m "message goes here"
 % git push origin gh-pages #gh-pages is name of branch where all website file are stored... still working to understand branches and general git architecture
 {% endhighlight %}
+
+Cool so that little code snippet worked.
