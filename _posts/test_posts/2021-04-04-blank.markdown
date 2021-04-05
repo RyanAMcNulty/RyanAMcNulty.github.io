@@ -1,0 +1,12 @@
+---
+layout: post
+title: hello
+date:   2021-04-04 1:09:08 -0400
+categories: jekyll update
+permalink: /:categories/:year/:month/:day/:title.html
+---
+testing permalinks to establish a permanent URL
+Jekyll defaults to using data & categories to make URL but can change this:
+permalink: "/my-new-URL/"
+
+Some content
