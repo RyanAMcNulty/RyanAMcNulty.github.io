@@ -4,7 +4,7 @@ title: Build
 permalink: /how-to-build-a-website/jekyll/
 ---
 
-#How to build a website with Github Pages, Jekyll, & custom domain
+## How 2 build a website with Github Pages, Jekyll, & custom domain
 
 This page will describe all the steps that went into building this website for self reference as well as guidance for others.
 
