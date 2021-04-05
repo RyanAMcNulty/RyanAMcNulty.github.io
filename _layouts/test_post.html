@@ -2,3 +2,7 @@
 <hr>
 
 {{ content }}
+
+{% for person in site.data.people %}
+  {{person.name}} <br>
+{% endfor %}

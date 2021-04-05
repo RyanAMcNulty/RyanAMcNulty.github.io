@@ -1,8 +1,5 @@
--name: Mike
-occupation: teacher
+- name: "Mike"
+  occupation: "teacher"
 
--name: Eric
-occupation: student
-
--name: Ryan
-occupation: mawr
+- name: "Mike"
+  occupation: "student"
